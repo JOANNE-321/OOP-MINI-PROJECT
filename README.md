@@ -5,12 +5,15 @@ This is an OOP mini project taht using JAVA languague to develop a Library Manag
 
 🧾 Project Title - Library Management System
 
+
 👩‍💻 Group Members
 Joanne Ching Yin Xuan
 ,Lim Yu Han 
 
+
 🎯 Project Objective
 This project aims to design and implement a console-based Java application that simulates the core functions of a real-world library system. It showcases the use of object-oriented programming (OOP) principles and Java collection frameworks as part of a software development process.
+
 
 ⚙️ System Features
 -Login: Librarian must enter ID and password to access system
@@ -26,6 +29,7 @@ This project aims to design and implement a console-based Java application that 
 -Return Book: Mark a book as returned
 
 -Exit: Exit the system safely
+
 
 🧩 Technologies Used
 Language: Java
