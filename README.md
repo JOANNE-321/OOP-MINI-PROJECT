@@ -3,8 +3,6 @@ This is an OOP mini project taht using JAVA languague to develop a Library Manag
 
 # 📚 Library Management System – Java Mini Project
 
-🧾 Project Title - Library Management System
-
 
 # 👩‍💻 Group Members
 Joanne Ching Yin Xuan
